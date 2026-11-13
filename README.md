@@ -5,18 +5,18 @@ Two interactive Excel dashboard projects built with PivotTables, PivotCharts and
 ## Projects
 
 ### 1. Book Sales & Profit
-**File:** [`book-sales-profit/Book_Sales_and_Profit_Dashboard.xlsx`](book-sales-profit/Book_Sales_and_Profit_Dashboard.xlsx)
+**File:** [`Book_Sales_and_Profit_Dashboard.xlsx`](Book_Sales_and_Profit_Dashboard.xlsx)
 
 Analyzes about 490 books by publishing year and decade, author rating, book rating, ratings count and language, along with publisher-level units sold, publisher revenue, gross sales and company profit.
 
-![Book Sales Dashboard](book-sales-profit/screenshots/dashboard.png)
+![Book Sales Dashboard](book_dashboard_performance.png)
 
 ### 2. Country-Wise Retail Sales
-**File:** [`country-retail-sales/Country_Wise_Retail_Sales_Dashboard.xlsx`](country-retail-sales/Country_Wise_Retail_Sales_Dashboard.xlsx)
+**File:** [`Country_Wise_Retail_Sales_Dashboard.xlsx`](Country_Wise_Retail_Sales_Dashboard.xlsx)
 
 Analyzes 1,000 retail orders across regions, countries, sales channels, categories and products, covering net sales and profit by country.
 
-![Retail Sales Dashboard](country-retail-sales/screenshots/dashboard.png)
+![Retail Sales Dashboard](retail_dashboard.png)
 
 ## Tools Used
 - Microsoft Excel
@@ -29,18 +29,5 @@ Analyzes 1,000 retail orders across regions, countries, sales channels, categori
 2. Open it in Microsoft Excel (desktop version recommended, since slicers may not work in Excel Online or other viewers).
 3. Go to the dashboard sheet and use the slicers to filter the data.
 
-## Repository Structure
-```
-excel-dashboards/
-├── README.md
-├── .gitignore
-├── book-sales-profit/
-│   ├── Book_Sales_and_Profit_Dashboard.xlsx
-│   └── screenshots/
-└── country-retail-sales/
-    ├── Country_Wise_Retail_Sales_Dashboard.xlsx
-    └── screenshots/
-```
-
 ## Author
-Your Name: [GitHub profile link]
+Shekhar-630
